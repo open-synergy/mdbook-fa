@@ -1,0 +1,1 @@
+# Menyetujui Giro Receipt
