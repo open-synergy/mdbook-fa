@@ -4,12 +4,12 @@
 
 ![](../../img/bank-receipt/tombol-add-item.png)
 
-2. Pilih **Partner**. Tidak harus diisi.
-3. Biarkan **Move Line** kosong.
-4. Pilih **Account**. Harus diisi.
-5. Pilih **Analytic Account**. Tidak harus diisi.
-6. Isi **Amount**. Harus diisi.
-7. Isi **Description**. Harus diisi.
+2. Pilih **[Partner](./penjelasan.md#field-detail-partner)**. Tidak harus diisi.
+3. Biarkan **[Move Line](./penjelasan.md#field-move-line)** kosong.
+4. Pilih **[Account](./penjelasan.md#field-detail-account)**. Harus diisi.
+5. Pilih **[Analytic Account](./penjelasan.md#field-detail-aa)**. Tidak harus diisi.
+6. Isi **[Amount](./penjelasan.md#field-detail-amount)**. Harus diisi.
+7. Isi **[Description](./penjelasan.md#field-detail-decsription)**. Harus diisi.
 8. Apabila ada pajak yang muncul terkait dengan voucher item, maka lakukan langkah
 penginputan voucher item tax.
 9. Klik tombol **Save & Close** untuk menyimpan dan menyudahi penginputan voucher item, atau
