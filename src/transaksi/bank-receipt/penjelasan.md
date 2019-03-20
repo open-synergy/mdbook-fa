@@ -22,33 +22,37 @@ Nomor dokumen bank receipt
 
 Perusahaan pemilik dokumen bank receipt
 
-#### Default Operating Unit
+#### <a name="field-ou">Default Operating Unit</a>
 
-#TODO
+Operating unit pemilik dokumen. Secara default terisi sesuai dengan operating unit pada
+Journal.
 
-#### Date
+#### <a name="field-date">Date</a>
 
 Tanggal transaksi
 
-#### Period
+#### <a name="field-period">Period</a>
 
 Periode akuntansi terjadinya transaksi
 
-#### Journal
+#### <a name="field-journal">Journal</a>
 
-Buku jurnal yang akan digunakan untuk mencatat penjurnalan bank receipt
+Buku jurnal yang akan digunakan untuk mencatat penjurnalan bank receipt.
 
 #### Payment Mode
 
-Metode penerimaan
+Metode penerimaan. Contoh: Pemindahbukuan, EDC, dll.
 
 #### Partner
 
-Pihak penerima
+Pihak penerima. Field ini akan menentukan *partner* yang digunakan pada penjurnalan
+bank receipt. *Partner* yang digunakan pada penjurnalan bank receipt adalah *commercial partner*
+dari isian **Partner**. Diisi apabila penerimaan terkait hanya dengan 1 pihak penerima. Jangan diisi
+apabila penerimaan terkait dengan lebih dari 1 pihak penerima.
 
 #### Description
 
-Keterangan utama transaksi. Isi field ini akan digunakan pada penjurnalan bank receipt di
+Keterangan utama transaksi. Isi field ini akan digunakan sebagai deskripsi penjurnalan bank receipt di
 sisi debit. Akan muncul di *general ledger*
 
 #### Note
@@ -69,7 +73,8 @@ Spot rate kurs
 
 #### Total Voucher In Company Currency
 
-Total penerimaan dalam mata uang perusahaan
+Total penerimaan dalam mata uang perusahaan. Nilai ini akan didebit pada penjurnalan
+bank receipt.
 
 ### <a name="bagian-detail">DETAIL</a>
 
@@ -77,7 +82,8 @@ Total penerimaan dalam mata uang perusahaan
 
 #### Partner
 
-Pihak penerima
+Pihak penerima. Apabila bank receipt terkait hanya dengan satu pihak penerima, maka isian
+ini harus sama dengan isian **Partner** pada bagian header.
 
 #### Move Line
 
@@ -89,22 +95,25 @@ Akun yang akan dikredit pada penjurnalan bank receipt
 
 #### Analytic Account
 
-#TODO
+Kode biaya
 
 #### Amount
 
-#TODO
+Jumlah detail penerimaan.
 
 #### Amount In Company Currency At Move Date
 
-#TODO
+Jumlah detail penerimaan sesuai dengan mata uang perusahaan dengan kurs tanggal **Move Line**
+
 
 #### Amount In Company Currency At Voucher Date
 
-#TODO
+Jumlah detail penerimaan sesuai dengan mata uang perusahaan dengan kurs sesuai dengan spot rate. Nilai ini akan dikredit pada penjurnalan bank receipt jika bernilai positif. Nilai ini akan didebit jika bernilai negatif.
 
 #### Diff Amount In Company Currency
 
-#TODO
+Selisih antara **Amount In Company Currency At Move Date** dan **Amount In Company Currency At Voucher Date**. Nilai ini akan dijurnal sebagai selisih kurs jika > 0.0
 
 #### Description
+
+Keterangan **Voucher Detail**.
