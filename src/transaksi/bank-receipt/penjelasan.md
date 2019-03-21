@@ -5,10 +5,10 @@ Informasi pada Bank Receipt dibagi menjadi beberapa area, diantaranya:
 * [Header](#bagian-header)
 * [Voucher Item](#bagian-detail)
 * [Footer](#bagian-footer)
-* Tab Notes
-* Tab Accounting Information
-* Tab Log
-* Tab Policy
+* [Tab Notes](#tab-notes)
+* [Tab Accounting Information](#tab-accounting-information)
+* [Tab Log](#tab-log)
+* [Tab Policy](#tab-policy)
 
 ### <a name="bagian-header">HEADER</a>
 
@@ -54,10 +54,6 @@ apabila penerimaan terkait dengan lebih dari 1 pihak penerima.
 
 Keterangan utama transaksi. Isi field ini akan digunakan sebagai deskripsi penjurnalan bank receipt di
 sisi debit. Akan muncul di *general ledger*
-
-#### <a name="field-note">Note</a>
-
-Catatan tambahan
 
 ### <a name="bagian-footer">FOOTER</a>
 
@@ -117,3 +113,27 @@ Selisih antara **Amount In Company Currency At Move Date** dan **Amount In Compa
 #### <a name="field-detail-description">Description</a>
 
 Keterangan **Voucher Detail**.
+
+### <a name="tab-notes">TAB NOTES</a>
+
+![](../../img/bank-receipt/tab-notes.png)
+
+#### <a name="field-note">Note</a>
+
+Catatan tambahan
+
+### <a name="tab-accounting-information">TAB ACCOUNTING INFORMATION</a>
+
+![](../../img/bank-receipt/tab-accounting-information.png)
+
+#### <a name="field-accounting-entry">Accounting Entry</a>
+
+Penjurnalan (journal entry) yang dihasilkan ketika bank receipt diposting
+
+### <a name="tab-log">TAB LOG</a>
+
+![](../../img/bank-receipt/tab-log.png)
+
+### <a name="tab-log">TAB POLICY</a>
+
+![](../../img/bank-receipt/tab-policy.png)
