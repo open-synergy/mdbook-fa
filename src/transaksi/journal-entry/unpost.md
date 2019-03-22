@@ -1,0 +1,1 @@
+# Membatalkan Postingan Journal Entry

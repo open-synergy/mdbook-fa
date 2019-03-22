@@ -1,0 +1,1 @@
+# Membuat Journal Entry
