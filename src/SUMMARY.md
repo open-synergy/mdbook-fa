@@ -1,5 +1,6 @@
 # Summary
 
+- [Pra-kata](./prakata.md)
 - [Konfigurasi](./konfigurasi.md)
     - [Fiscal Year](./konfigurasi/fiscal-year.md)
     - [Fiscal Period](./konfigurasi/fiscal-period.md)
@@ -131,6 +132,11 @@
         - [Merestart Cheque Payment](./transaksi/cheque-payment/restart.md)     
     - [Sale Advance Settlement](./transaksi/sale-advance-settlement.md)
         - [Penjelasan](./transaksi/sale-advance-settlement/penjelasan.md)
+        - [Membuat Sale Advance Settlement](./transaksi/sale-advance-settlement/membuat.md)
+            - [Debit Line](./transaksi/sale-advance-settlement/debit-line.md)
+            - [Credit Line](./transaksi/sale-advance-settlement/credit-line.md)
+                - [Import Move Line](./transaksi/sale-advance-settlement/credit-line-import.md)
+                - [Manual Entry](./transaksi/sale-advance-settlement/credit-line-manual.md)                          
         - [Mengkonfirmasi Sale Advance Settlement](./transaksi/sale-advance-settlement/konfirmasi.md)
         - [Menyetujui Sale Advance Settlement](./transaksi/sale-advance-settlement/approve.md)
         - [Proforma Sale Advance Settlement](./transaksi/sale-advance-settlement/proforma.md)
