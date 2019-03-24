@@ -17,11 +17,11 @@ Informasi pada *Sale Advance Settlement* dibagi menjadi beberapa area, diantaran
 
 #### <a name="field-name"># Sale Advance Settlement</a>
 
-Nomor dokumen sale advance settlement
+Nomor dokumen *sale advance settlement*
 
 #### <a name="field-company">Company</a>
 
-Perusahaan pemilik dokumen sale advances settlement
+Perusahaan pemilik dokumen *sale advances settlement*
 
 #### <a name="field-ou">Default Operating Unit</a>
 
