@@ -1,6 +1,6 @@
 # Sale Advance Settlement
 
-**Sale Advance Settlement** adalah fitur yang digunakan untuk merekonsiliasi uang muka penjualan dengan **[customer invoice](../customer-invoice.md)**
+**Sale Advance Settlement** adalah fitur yang digunakan untuk merekonsiliasi uang muka penjualan dengan **[customer invoice](./customer-invoice.md)**
 
 - [Penjelasan](./sale-advance-settlement/penjelasan.md)
 - [Membuat Sale Advance Settlement](./sale-advance-settlement/membuat.md)
