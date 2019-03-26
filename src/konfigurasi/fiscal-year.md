@@ -2,7 +2,7 @@
 
 ### <a name="bagian-header">HEADER</a>
 
-![](../../img/fiscal-years/form-header.png)
+![](../img/fiscal-years/form-header.png)
 
 #### <a name="field-name">Fiscal Year</a>
 
@@ -26,8 +26,8 @@ TO DO
 
 ### <a name="bagian-detail-periode">DETAIL PERIODE</a>
 
-![](../../img/fiscal-years/form-detail.png)
-![](../../img/fiscal-years/form-detail-periode.png)
+![](../img/fiscal-years/form-detail.png)
+![](../img/fiscal-years/form-detail-periode.png)
 
 #### <a name="field-detail-periode-name">Period Name</a>
 
