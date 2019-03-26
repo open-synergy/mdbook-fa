@@ -2,7 +2,7 @@
 
 ### <a name="bagian-header">HEADER</a>
 
-![](../../img/fiscal-period/form-header.png)
+![](../img/fiscal-period/form-header.png)
 
 #### <a name="field-name">Period Name</a>
 
@@ -26,7 +26,7 @@ Durasi (**Format:** *Tanggal Mulai - Tanggal Akhir*) periode akan berjalan
 
 ### <a name="bagian-detail-journal">DETAIL JOURNALS</a>
 
-![](../../img/fiscal-period/form-detail-journal.png)
+![](../img/fiscal-period/form-detail-journal.png)
 
 #### <a name="field-journal-id">Journal</a>
 
