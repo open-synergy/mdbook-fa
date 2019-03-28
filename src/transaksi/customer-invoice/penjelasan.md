@@ -175,7 +175,7 @@ Kode akun pajak
 
 Dasar penggenaan pajak
 
-#### <a name="field-amount">Amount</a>
+#### <a name="field-tax-amount">Amount</a>
 
 Pajak
 
