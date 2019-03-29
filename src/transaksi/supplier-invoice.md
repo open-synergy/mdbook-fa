@@ -1,6 +1,6 @@
 # Supplier Invoice
 
-**Supplier Invoice** adalah fitur yang digunakan untuk mencatat dan memproses faktur penjualan.
+**Supplier Invoice** adalah fitur yang digunakan untuk mencatat dan memproses faktur pembelian.
 
 - [Penjelasan](./supplier-invoice/penjelasan.md)
 - [Membuat Supplier Invoice](./supplier-invoice/membuat.md)

@@ -41,7 +41,7 @@ Tanggal jatuh tempo. Jika isian **_Payment Term_** diisi, maka nilai **_Due Date
 
 #### <a name="field-account">Account</a>
 
-Akun piutang yang akan digunakan dalam penjurnalan *supplier invoice*. Secara otomatis akan mengambil nilai **Payable Account_** pada **_Supplier_**.
+Akun utang yang akan digunakan dalam penjurnalan *supplier invoice*. Secara otomatis akan mengambil nilai **Payable Account_** pada **_Supplier_**.
 
 #### <a name="field-force-number">Force Number</a>
 

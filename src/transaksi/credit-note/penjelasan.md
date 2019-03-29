@@ -25,7 +25,7 @@ Tanggal terbitnya invoice. Tanggal ini akan menjadi tanggal penjurnalan *credit 
 
 #### <a name="field-force-number">Force Number</a>
 
-Nomor invoice. Biarkan kosong agar penomeran invoice dibuat secara otomatis.
+Nomor *credit note*. Biarkan kosong agar penomeran *credit note* dibuat secara otomatis.
 
 #### <a name="field-ou">Operating Unit</a>
 
@@ -45,7 +45,7 @@ Tipe penjualan
 
 #### <a name="field-currency">Currency</a>
 
-Mata uang invoice. Akan mengikuti nilai **_Currency_** pada **_Journal_**.
+Mata uang *credit note*. Akan mengikuti nilai **_Currency_** pada **_Journal_**.
 
 ### <a name="bagian-invoice-line">TAB INVOICE LINE</a>
 
@@ -81,15 +81,15 @@ Tanggal selesai masa manfaat. Diisi apabila isian **_Account_** merupakan akun p
 
 #### <a name="field-qty">Quantity</a>
 
-Kuantitas item yang dijual
+Kuantitas item yang di-*refund*
 
 #### <a name="field-uom">Unit of Measure</a>
 
-Satuan item yang dijual
+Satuan item yang di-*refund*
 
 #### <a name="field-asset">Unit Price</a>
 
-Harga satuan item yang dijual
+Harga satuan item yang di-*refund*
 
 #### <a name="field-discount">Discount</a>
 
@@ -97,7 +97,7 @@ Diskon penjualan. Ditulis dalam persen.
 
 #### <a name="field-taxes">Taxes</a>
 
-Pajak-pajak yang dikenakan kepada item yang dijual.
+Pajak-pajak yang dikenakan kepada item yang di-*refund*.
 
 #### <a name="field-amount-gross">Amount Gross</a>
 
@@ -105,7 +105,7 @@ Subtotal sebelum pajak
 
 #### <a name="field-subtotal">Subtotal</a>
 
-Subtotal penjualan sebelum pajak
+Subtotal *credit note* sebelum pajak
 
 #### <a name="field-tax">Tax</a>
 
@@ -117,11 +117,11 @@ Total pajak yang dikenakan
 
 #### <a name="field-balance">Balance</a>
 
-Sisa invoice yang belum terbayar.
+Sisa *credit note* yang belum terekonsiliasi.
 
 #### <a name="field-payment-term">Payment Term</a>
 
-Term jatuh tempo pembayaran
+Term jatuh tempo rekonsiliasi
 
 #### <a name="field-info">Additional Information</a>
 
@@ -133,15 +133,15 @@ Informasi tambahan
 
 #### <a name="field-salesperson">Salesperson</a>
 
-Karyawan yang bertanggung jawab merilis invoice
+Karyawan yang bertanggung jawab merilis *credit note*
 
 #### <a name="field-sales-team">Sales Team</a>
 
-Tim penjualan yang melakukan invoice
+Tim penjualan yang menerbitkan *credit note*
 
 #### <a name="field-bank-acc">Bank Account</a>
 
-Rekening tujuan penerimaan pembayaran
+#TODO
 
 #### <a name="field-due-date">Due Date</a>
 
@@ -153,7 +153,7 @@ Dokumen sumber
 
 #### <a name="field-reference">Reference/Description</a>
 
-Deskripi singkat terkait invoice. Isian ini akan menjadi keterangan pada *general ledger*.
+Deskripi singkat terkait *credit note*. Isian ini akan menjadi keterangan pada *general ledger*.
 
 #### <a name="field-accrual-journal-entry">Accrual Journal Entry</a>
 
