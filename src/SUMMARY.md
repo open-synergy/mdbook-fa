@@ -22,6 +22,7 @@
         - [Penjelasan](./transaksi/customer-invoice/penjelasan.md)
         - [Membuat Customer Invoice](./transaksi/customer-invoice/membuat.md)
             - [Secara Manual](./transaksi/customer-invoice/membuat-manual.md)
+                - [Menambahkan Invoice Line](./transaksi/customer-invoice/membuat-manual-invoice-line.md)
         - [Memvalidasi Customer Invoice](./transaksi/customer-invoice/validasi.md)
         - [Merekonsiliasi Customer Invoice](./transaksi/customer-invoice/rekonsiliasi.md)
             - [Menerima Pembayaran Customer Invoice](./transaksi/customer-invoice/bayar.md)
