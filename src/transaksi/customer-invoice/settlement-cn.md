@@ -8,7 +8,7 @@
 
 ## B. LANGKAH KERJA
 
-Buat dan proses [Sale Advance Settlement](../sale-refund-settlement.md) untuk melakukan settlement dengan *credit note*.
+Buat dan proses [Sale Refund Settlement](../sale-refund-settlement.md) untuk melakukan settlement dengan *credit note*.
 
 ## C. OUTPUT
 
