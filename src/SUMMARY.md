@@ -1,6 +1,7 @@
 # Summary
 
-- [Pra-kata](./prakata.md)
+[Pra-kata](./prakata.md)
+[Terminologi](./terminologi.md)
 - [Konfigurasi](./konfigurasi.md)
     - [Fiscal Year](./konfigurasi/fiscal-year.md)
     - [Fiscal Period](./konfigurasi/fiscal-period.md)

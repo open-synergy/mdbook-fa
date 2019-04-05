@@ -6,7 +6,7 @@
 
 1. Buka menu **Accounting -> Reporting -> Trial Balance**. Pop-up **Report Trial Balance** akan muncul
 
-![](../../img/trial-balance/pop-up-report-trial-balance.png)
+![](../img/trial-balance/pop-up-report-trial-balance.png)
 
 2. Pilih **Company**. Perusahaan yang akan dicetak laporan trial balancenya.
 3. Pilih **Fiscal Year**. Tahun pembukuan laporan.
@@ -15,6 +15,6 @@
 6. Pilih **Output Format**. Pilih **ODS** untuk mencetak trial balance dalam format Open-Office Spreadsheet. Pilih **XLS** untuk mencetak trial balance dalam format Microsoft Excell. Pilih **PDF** untuk mencetak trial balance dalam format Portable Document Format.
 7. Klik tombol **Print Trial Balance** pada bagian bawah-kiri pop-up **Report Trial Balance**.
 
-![](../../img/trial-balance/tombol-print.png)
+![](../img/trial-balance/tombol-print.png)
 
 ## C. OUTPUT

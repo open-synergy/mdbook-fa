@@ -6,7 +6,7 @@
 
 1. Buka menu **Accounting -> Reporting -> General Ledger**. Pop-up **Report General Ledger** akan muncul
 
-![](../../img/general-ledger/pop-up-report-general-ledger.png)
+![](../img/general-ledger/pop-up-report-general-ledger.png)
 
 2. Pilih **Company**. Perusahaan yang akan dicetak laporan general ledgernya.
 3. Pilih **Fiscal Year**. Tahun pembukuan laporan.
@@ -17,6 +17,6 @@
 8. Pilih **Output Format**. Pilih **ODS** untuk mencetak general ledger dalam format Open-Office Spreadsheet. Pilih **XLS** untuk mencetak general ledger dalam format Microsoft Excell. Pilih **PDF** untuk mencetak general ledger dalam format Portable Document Format.
 9. Klik tombol **Print General Ledger** pada bagian bawah-kiri pop-up **Report General Ledger**.
 
-![](../../img/general-ledger/tombol-print.png)
+![](../img/general-ledger/tombol-print.png)
 
 ## C. OUTPUT
