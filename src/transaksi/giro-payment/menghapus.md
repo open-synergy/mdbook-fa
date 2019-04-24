@@ -1,0 +1,1 @@
+# Menghaapus Giro Receipt
