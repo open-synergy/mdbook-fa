@@ -30,4 +30,4 @@ pada menu yang dimaksud.
 
 ## C. OUTPUT
 
-* Status dari *customer invoice* akan berubah terhapus
+* Data customer invoice akan terhapus.

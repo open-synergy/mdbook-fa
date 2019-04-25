@@ -1,4 +1,10 @@
-# Secara Manual
+# Membuat Customer Invoice
+
+## A. INPUT
+
+*(Tidak ada instruksi khusus)*
+
+## B. LANGKAH KERJA
 
 1. Buka menu **Accounting -> Customer -> Customer Invoice**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Klik tombol **Create** pada bagian atas-kiri form.
@@ -22,7 +28,7 @@
 17. Isi **[Due Date](./penjelasan.md#field-due-date)**. Wajib diisi.
 18. Isi **[Source Document](./penjelasan.md#field-source-document)**. Tidak wajib diisi.
 19. Isi **[Reference/Description](./penjelasan.md#field-reference)**. Tidak wajib diisi.
-20. Untuk setiap detail invoice lakukan prosedur pengisian *[invoice line](./membuat-manual-invoice-line.md)*
+20. <a name="l20">[Tambah](./membuat-manual-invoice-line.md)/[Modifikasi](./memodifikasi-manual-invoice-line.md)/[Hapus](./menghapus-manual-invoice-line.md) Invoice Line</a>. Ulangi langkah ini sampai **Invoice Lines** sesuai dengan keinginan.
 21. Beralih ke tab **[Invoice Lines](./penjelasan.md#penjelasan-tab-invoice-line)**.
 22. Pilih **[Payment Term](./penjelasan.md#field-payment)**. Tidak wajib diisi.
 23. Isi **[Additional Information](./penjelasan.md#field-additional-information)** Tidak wajib diisi.
@@ -33,3 +39,7 @@
 25. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/customer-invoice/tombol-save.png)
+
+## C. OUTPUT
+
+*(Tidak ada instruksi kerja)*
