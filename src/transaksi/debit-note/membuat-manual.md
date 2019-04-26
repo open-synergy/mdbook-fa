@@ -1,4 +1,10 @@
-# Secara Manual
+# Membuat Debit Note
+
+## A. INPUT
+
+*(Tidak ada instruksi khusus)*
+
+## B. LANGKAH KERJA
 
 1. Buka menu **Accounting -> Supplier -> Debit Note**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Klik tombol **Create** pada bagian atas-kiri form.
@@ -22,7 +28,7 @@
 17. Pilih **[Responsible](./penjelasan.md#field-responsible)**. Tidak wajib diisi.
 18. Pilih **[Payment Term](./penjelasan.md#field-payment)**. Tidak wajib diisi.
 19. Abaikan **[Accounting Period](./penjelasan.md#field-accounting-period)**.
-20. Untuk setiap detail *debit note* lakukan prosedur pengisian *[debit note line](./membuat-manual-invoice-line.md)*
+20. [Tambah](./membuat-manual-invoice-line.md)/[Modifikasi](./memodifikasi-invoice-line.md)/[Hapus](./menghapus-invoice-line.md) **Invoice Lines**. Ulangi langkah ini sampai **Invoice Lines** sesuai dengan keinginan.
 21. Beralih ke tab **[Invoice Lines](./penjelasan.md#penjelasan-tab-invoice-line)**.
 23. Isi **[Additional Information](./penjelasan.md#field-additional-information)** Tidak wajib diisi.
 24. Klik label **Update** pada bagian bawah-kanan
@@ -32,3 +38,7 @@
 25. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/debit-note/tombol-save.png)
+
+## C. OUTPUT
+
+*(Tidak ada instruksi kerja)*
