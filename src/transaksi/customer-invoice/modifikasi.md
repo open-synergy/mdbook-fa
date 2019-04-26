@@ -46,4 +46,4 @@
 
 ## C. OUTPUT
 
-*(Tidak ada instruksi kerja)*
+* Data customer invoice akan berubah sesuai dengan perubahan yang dilakukan.
