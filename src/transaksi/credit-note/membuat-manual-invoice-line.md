@@ -1,5 +1,13 @@
 # Menambahkan Invoice Line
 
+*(Instruksi kerja ini merupakan sub instruksi dari (1) [Membuat Credit Note](./membuat-manual.md), atau (2) [Memodifikasi Credit Note](./modifikasi.md). Instruksi kerja ini tidak bisa berdiri sendiri)*
+
+## A. INPUT
+
+*(Tidak ada instruksi khusus)*
+
+## B. LANGKAH KERJA
+
 1. Klik label **Add an Item** pada tabel *invoice lines*
 
 ![](../../img/credit-note/tombol-add-item.png)
@@ -16,3 +24,8 @@
 10. Pilih **[Unit of Measure](./penjelasan.md#field-uom)**. Tidak wajib diisi.
 11. Isi **[Discount](./penjelasan.md#field-discount)**. Tidak wajib diisi.
 12. Pilih **[Taxes](./penjelasan.md#field-taxes)** Tidak wajib diisi.
+13. Lanjutkan [langkah ke-20 instruksi kerja Membuat Credit Note](./membuat-manual.md#l20) atau [langkah ke-21 instruksi kerja Memodifikasi Credit Note](./modifikasi.md#l21).
+
+## C. OUTPUT
+
+*(Tidak ada instruksi khusus)*
