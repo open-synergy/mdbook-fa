@@ -1,4 +1,12 @@
-# Manual Entry
+# Menambahkan Voucher Line Pada Bank Receipt
+
+*(Instruksi kerja ini merupakan sub instruksi dari (1) [Membuat Bank Receipt](./membuat.md), atau (2) [Memodifikasi Bank Receipt](./memodifikasi.md). Instruksi kerja ini tidak bisa berdiri sendiri)*
+
+## A. INPUT
+
+*(Tidak ada instruksi khusus)*
+
+## B. LANGKAH KERJA
 
 1. Klik label **Add an Item** pada tab **Voucher Detail**
 
@@ -24,4 +32,8 @@ Tombol **Save & New**
 ![](../../img/bank-receipt/tombol-save-new.png)
 
 10. Apabila pada langkah 9 **Save & New** yang dipilih maka ulangi langkah ke-2
-11. Lanjutkan prosedur pembuatan bank receipt [langkah ke-13](./membuat.md#langkah-13)
+11. Lanjutkan [langkah ke-12 Instruksi Kerja Membuat Bank Receipt](./membuat.md#l12) atau [langkah ke-13 Instruksi Kerja Memodifikasi Bank Receipt](./memodifikasi.md#l13).
+
+## C. OUTPUT
+
+*(Tidak ada instruksi khusus)*
