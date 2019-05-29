@@ -1,5 +1,11 @@
 # Membuat Bank Payment
 
+## A. INPUT
+
+*(Tidak ada instruksi khusus)*
+
+## B. LANGKAH KERJA
+
 1. Buka menu **Accounting -> Bank & Cash -> Bank Payment**
 2. Klik tombol **Create** pada bagian atas-kiri form.
 
@@ -15,8 +21,10 @@ apabila menghendaki penomeran otomatis.
 9. Pilih **[Partner](./penjelasan.md#field-partner)** Tidak harus diisi.
 10. Isi **[Total Voucher](./penjelasan.md#field-total-voucher)**. Harus diisi.
 11. Isi **[Exchange Rate](./penjelasan.md#field-exchange-rate)**. Harus diisi.
-12. Untuk setiap detail voucher, lakukan [prosedur input detail voucher](./membuat-detail.md).
+12. <a name="l12">[Import](./membuat-detail-import.md)/[Tambah](./membuat-detail-manual.md)/[Modifikasi](./line-modifikasi.md)/[Hapus](./line-hapus.md) **Voucher Lines**</a>. Ulangi langkah ini sampai **Voucher Lines** sesuai dengan keinginan.
 13. <a name="langkah-13">Isi</a> **[Write-Off Account](./penjelasan.md#field-writeoff-account)** apabila nilai **[Amount Diff](./penjelasan.md#field-amount-diff)** tidak sama dengan 0.0 dan nominal tersebut ingin di-*write-off* ke akun tertentu.
 14. Klik tombol **Save** pada bagian atas-kiri form.
+
+## C. OUTPUT
 
 ![](../../img/bank-payment/tombol-save.png)
