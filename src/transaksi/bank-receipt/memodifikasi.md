@@ -23,7 +23,7 @@
 10. Pilih dan sesuaikan **[Partner](./penjelasan.md#field-partner)** jika dibutuhkan. Tidak harus diisi.
 11. Isi dan sesuaikan **[Total Voucher](./penjelasan.md#field-total-voucher)** jika dibutuhkan. Harus diisi.
 12. Isi dan sesuaikan **[Exchange Rate](./penjelasan.md#field-exchange-rate)** jika dibutuhkan. Harus diisi.
-13. <a name="l13">[Import](./membuat-detail-import.md)/[Tambah](./membuat-detaail-manual.md)/[Modifikasi](./line-modifikasi.md)/[Hapus](./line-hapus.md) **Voucher Lines**</a>. Ulangi langkah ini sampai **Voucher Lines** sesuai dengan keinginan.
+13. <a name="l13">[Import](./membuat-detail-import.md)/[Tambah](./membuat-detail-manual.md)/[Modifikasi](./line-modifikasi.md)/[Hapus](./line-hapus.md) **Voucher Lines**</a>. Ulangi langkah ini sampai **Voucher Lines** sesuai dengan keinginan.
 14. <a name="langkah-13">Pilih dan sesuaikan</a> **[Write-Off Account](./penjelasan.md#field-writeoff-account)** apabila nilai **[Amount Diff](./penjelasan.md#field-amount-diff)** tidak sama dengan 0.0 dan nominal tersebut ingin di-*write-off* ke akun tertentu.
 15. Klik tombol **Save** pada bagian atas-kiri form.
 
