@@ -1,5 +1,13 @@
 # Manual Entry
 
+*(Instruksi kerja ini merupakan sub instruksi dari (1) [Membuat Cash Receipt](./membuat.md), atau (2) [Memodifikasi Cash Receipt](./memodifikasi.md). Instruksi kerja ini tidak bisa berdiri sendiri)*
+
+## A. INPUT
+
+*(Tidak ada instruksi khusus)*
+
+## B. LANGKAH KERJA
+
 1. Klik label **Add an Item** pada tab **Voucher Detail**
 
 ![](../../img/cash-receipt/tombol-add-item.png)
@@ -25,3 +33,7 @@ Tombol **Save & New**
 
 10. Apabila pada langkah 9 **Save & New** yang dipilih maka ulangi langkah ke-2
 11. Lanjutkan prosedur pembuatan cash receipt [langkah ke-12](./membuat.md#langkah-12)
+
+## C. OUTPUT
+
+*(Tidak ada instruksi khusus)*
