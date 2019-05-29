@@ -1,5 +1,13 @@
 # Manual Entry
 
+*(Instruksi kerja ini merupakan sub instruksi dari (1) [Membuat Cash Payment](./membuat.md), atau (2) [Memodifikasi Cash Payment](./memodifikasi.md). Instruksi kerja ini tidak bisa berdiri sendiri)*
+
+## A. INPUT
+
+*(Tidak ada instruksi khusus)*
+
+## B. LANGKAH KERJA
+
 1. Klik label **Add an Item** pada tab **Voucher Detail**
 
 ![](../../img/cash-payment/tombol-add-item.png)
@@ -24,4 +32,8 @@ Tombol **Save & New**
 ![](../../img/cash-payment/tombol-save-new.png)
 
 10. Apabila pada langkah 9 **Save & New** yang dipilih maka ulangi langkah ke-2
-11. Lanjutkan prosedur pembuatan cash payment [langkah ke-13](./membuat.md#langkah-13)
+11. Lanjutkan prosedur pembuatan cash payment [langkah ke-12](./membuat.md#langkah-12
+
+## C. OUTPUT
+
+*(Tidak ada instruksi khusus)*)
