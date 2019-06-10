@@ -9,7 +9,7 @@
 ## B. LANGKAH KERJA
 
 1. Buka menu **Accounting -> Bank & Cash -> Bank Payment**. Abaikan jika sudah berada pada menu yang dimaksud.
-2. Buka data bank receipt yang akan dimodifikasi. Abaikan jika data sudah dibuka.
+2. Buka data bank payment yang akan dimodifikasi. Abaikan jika data sudah dibuka.
 3. Klik tombol **Edit** pada bagian atas-kiri form.
 
 ![](../../img/bank-payment/tombol-edit.png)
