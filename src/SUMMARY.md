@@ -162,6 +162,7 @@
         - [Membuat Cheque Receipt](./transaksi/cheque-receipt/membuat.md)
         - [Memodifikasi Cheque Receipt](./transaksi/cheque-receipt/memodifikasi.md)
         - [Menghapus Cheque Receipt](./transaksi/cheque-receipt/menghapus.md)
+        - [Import Move Line](./transaksi/cheque-receipt/membuat-detail-import.md)
         - [Menambahkan Voucher Line Pada Cheque Receipt](./transaksi/cheque-receipt/membuat-detail-manual.md)          
         - [Memodifikasi Voucher Line Pada Cheque Receipt](./transaksi/cheque-receipt/line-modifikasi.md)          
         - [Menghapus Voucher Line Pada Cheque Receipt](./transaksi/cheque-receipt/line-hapus.md)    
