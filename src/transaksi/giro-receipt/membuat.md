@@ -1,5 +1,11 @@
 # Membuat Giro Receipt
 
+## A. INPUT
+
+*(Tidak ada instruksi khusus)*
+
+## B. LANGKAH KERJA
+
 1. Buka menu **Accounting -> Bank & Cash -> Giro Receipt**
 2. Klik tombol **Create** pada bagian atas-kiri form.
 
@@ -17,8 +23,12 @@
 12. Pilih **[Destination Bank Account](./penjelasan.md#field-destination-account)**. Harus diisi.
 13. Isi **[Total Voucher](./penjelasan.md#field-total-voucher)**. Harus diisi.
 14. Isi **[Exchange Rate](./penjelasan.md#field-exchange-rate)**. Harus diisi.
-15. Untuk setiap detail voucher, lakukan [prosedur input detail voucher](./membuat-detail.md).
+15. <a name="l15">[Import](./membuat-detail-import.md)/[Tambah](./membuat-detail-manual.md)/[Modifikasi](./line-modifikasi.md)/[Hapus](./line-hapus.md) **Voucher Lines**</a>. Ulangi langkah ini sampai **Voucher Lines** sesuai dengan keinginan.
 16. <a name="langkah-16">Isi</a> **[Write-Off Account](./penjelasan.md#field-writeoff-account)** apabila nilai **[Amount Diff](./penjelasan.md#field-amount-diff)** tidak sama dengan 0.0 dan nominal tersebut ingin di-*write-off* ke akun tertentu.
 17. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/giro-receipt/tombol-save.png)
+
+## C. OUTPUT
+
+*(Tidak ada instruksi khusus)*
