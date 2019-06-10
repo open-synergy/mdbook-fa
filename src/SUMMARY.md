@@ -177,6 +177,7 @@
         - [Membuat Cheque Payment](./transaksi/cheque-payment/membuat.md)
         - [Memodifikasi Cheque Payment](./transaksi/cheque-payment/memodifikasi.md)
         - [Menghapus Cheque Payment](./transaksi/cheque-payment/menghapus.md)
+        - [Import Move Line](./transaksi/cheque-payment/membuat-detail-import.md)
         - [Menambahkan Voucher Line Pada Cheque Payment](./transaksi/cheque-payment/membuat-detail-manual.md)          
         - [Memodifikasi Voucher Line Pada Cheque Payment](./transaksi/cheque-payment/line-modifikasi.md)          
         - [Menghapus Voucher Line Pada Cheque Payment](./transaksi/cheque-payment/line-hapus.md)
