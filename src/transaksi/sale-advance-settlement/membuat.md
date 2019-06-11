@@ -1,5 +1,11 @@
 # Membuat Sale Advance Settlement
 
+## A. INPUT
+
+*(Tidak ada instruksi khusus)*
+
+## B. LANGKAH KERJA
+
 1. Buka menu **Accounting -> Settlement -> Sale Advance Settlement**
 2. Klik tombol **Create** pada bagian atas-kiri form.
 
@@ -17,3 +23,7 @@
 12. <a name="langkah-12">Klik</a> tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/sale-advance-settlement/tombol-save.png)
+
+## C. OUTPUT
+
+*(Tidak ada instruksi khusus)*
