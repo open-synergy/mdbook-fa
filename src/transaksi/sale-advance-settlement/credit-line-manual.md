@@ -1,5 +1,11 @@
 # Manual Entry Credit Line
 
+## A. INPUT
+
+*(Tidak ada instruksi khusus)*
+
+## B. LANGKAH KERJA
+
 1. Klik label **Add an Item** pada bagian **[Credit Line](./penjelasan.md#bagian-credit-line)**
 
 ![](../../img/sale-advance-settlement/tombol-add-item.png)
@@ -25,3 +31,7 @@ Tombol **Save & New**
 
 10. Apabila pada langkah 9 **Save & New** yang dipilih maka ulangi langkah ke-2
 11. Lanjutkan prosedur pembuatan *sale advance settlement* [langkah ke-12](./membuat.md#langkah-12)
+
+## C. OUTPUT
+
+*(Tidak ada instruksi khusus)
