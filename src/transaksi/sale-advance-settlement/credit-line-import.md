@@ -23,7 +23,7 @@ Pop-up **Import Move Line** akan muncul.
 ![](../../img/sale-advance-settlement/pop-up-import-move-line-tombol-import.png)
 
 5. Lakukan sampai semua *journal item* yang mau direkonsiliasi sudah terimport.
-6. Lanjutkan prosedur pembuatan *sale advance settlement* [langkah ke-12](./membuat.md#langkah-12)
+6. Lanjutkan prosedur (1) [Langkah ke-11 pada Membuat Sale Advance Settlement](./membuat.md#langkah-11), atau (2) [Langkah ke-11 pada Memodifikasi Sale Advance Settlement](./memodifikasi.md#langkah-11)
 
 ## C. OUTPUT
 
