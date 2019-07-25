@@ -12,8 +12,8 @@
 7. Pilih **[Journal](./penjelasan.md#field-journal)**. Harus diisi.
 8. Pilih **[Partner](./penjelasan.md#field-partner)** Tidak harus diisi.
 9. Isi **[Exchange Rate](./penjelasan.md#field-exchange-rate)**. Harus diisi.
-10. Untuk setiap *supplier invoice* yang akan di-*settle*, lakukan [prosedur input debit line](./debit-line.md).
-11. <a name="langkah-11">Untuk</a> setiap *debit note* yang akan di-*settle*, lakukan [prosedur input credit line](./credit-line.md).
+10. <a name="langkah-10">Untuk</a> setiap *supplier invoice* yang akan di-*settle*, [import](./import-debit-line.md)/[modifikasi](./memodifikasi-debit-line.md)/[hapus](./menghapus-debit-line.md) debit lines. Ulangi langkah ini sampai **Debit Lines** sesuai dengan keinginan.
+11. <a name="langkah-11">Untuk</a> setiap *debit note* yang akan di-*settle*, [import](./import-credit-line.md)/[modifikasi](./memodifikasi-credit-line.md)/[hapus](./menghapus-credit-line.md) credit lines. Ulangi langkah ini sampai **Credit Lines** sesuai dengan keinginan.
 12. <a name="langkah-12">Klik</a> tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/purchase-refund-settlement/tombol-save.png)
