@@ -1,4 +1,4 @@
-# Menambahkan Invoice Line
+# Menambahkan Invoice Line Pada Supplier Invoice
 
 *(Instruksi kerja ini merupakan sub instruksi dari (1) [Membuat Supplier Invoice](./membuat-manual.md), atau (2) [Memodifikasi Supplier Invoice](./modifikasi.md). Instruksi kerja ini tidak bisa berdiri sendiri)*
 
