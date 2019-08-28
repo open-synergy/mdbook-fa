@@ -271,5 +271,6 @@
     - [Income Statement](./report/income-statement.md)
 - [Dashboard](./dashboard.md)
     - [A/R](./dashboard/ar.md)
+    - [Bank and Cash](./dashboard/bank-cash.md)
 - [Konsep](./konsep.md)
     - [Rekonsiliasi](./konsep/rekonsiliasi.md)
