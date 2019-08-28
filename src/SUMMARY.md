@@ -269,5 +269,7 @@
     - [Trial Balance](./report/trial-balance.md)
     - [Balance Sheet](./report/balance-sheet.md)
     - [Income Statement](./report/income-statement.md)
+- [Dashboard](./dashboard.md)
+    - [A/R](./dashboard/ar.md)
 - [Konsep](./konsep.md)
     - [Rekonsiliasi](./konsep/rekonsiliasi.md)
