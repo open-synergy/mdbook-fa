@@ -1,0 +1,1 @@
+# Menyetujui Prepaid Income Amortization

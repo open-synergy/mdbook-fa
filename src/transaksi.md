@@ -17,3 +17,5 @@
 - [Sale Refund Settlement](./transaksi/sale-refund-settlement.md)
 - [Purchase Advance Settlement](./transaksi/purchase-advance-settlement.md)
 - [Purchase Refund Settlement](./transaksi/purchase-refund-settlement.md)
+- [Prepaid Expense Amortization](./transaksi/prepaid-expense-amortization.md)
+- [Prepaid Income Amortization](./transaksi/prepaid-income-amortization.md)
