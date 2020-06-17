@@ -1,5 +1,8 @@
 # Transaksi
 
+Chapter transaksi menjelaskan transaksi yang berkaitan dengan finance dan accounting.
+Adapun transaki dibagi menjadi item sbb:
+
 - [Journal Entry](./transaksi/journal-entry.md)
 - [Customer Invoice](./transaksi/customer-invoice.md)
 - [Credit Note](./transaksi/credit-note.md)
@@ -19,3 +22,9 @@
 - [Purchase Refund Settlement](./transaksi/purchase-refund-settlement.md)
 - [Prepaid Expense Amortization](./transaksi/prepaid-expense-amortization.md)
 - [Prepaid Income Amortization](./transaksi/prepaid-income-amortization.md)
+
+## Chapter
+- [Terminologi](./terminologi.md)
+- [Konfigurasi](./konfigurasi.md)
+- [Report](./report.md)
+- [Dashboard](./dashboard.md)
