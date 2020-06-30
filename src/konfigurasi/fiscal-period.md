@@ -1,37 +1,21 @@
 # Fiscal Period
 
-### <a name="bagian-header">HEADER</a>
+Konfigurasi Fiscal Period menjelaskan bagaimana untuk melakukan konfigurasi periode pada tahun fiscal.
+Adapun proses konfigurasi fiscal period terdiri dari menjadi item sbb:
+- [Penjelasan Fiscal Period](fiscal-period/penjelasan.md)
+- [Generate Periode per Bulan](fiscal-period/generate-monthly.md)
+- [Generate Periode per 3 Bulan](fiscal-period/generate-3monthly.md)
+- [Membuat Fiscal Period Secara Manual](fiscal-period/membuat.md)
+- [Memodifikasi Fiscal Period](fiscal-period/memodifikasi.md)
+- [Menghapus Fiscal Period](fiscal-period/menghapus.md)
 
-![](../img/fiscal-period/form-header.png)
-
-#### <a name="field-name">Period Name</a>
-
-Nama Periode
-
-#### <a name="field-code">Code</a>
-
-Kode Periode
-
-#### <a name="field-fiscalyear-id">Fiscal Year</a>
-
-Nama Fiscal Year
-
-#### <a name="field-detail-periode-special">Opening/Closing Period</a>
-
-Sebagai informasi apakah data periode merupakan Opening atau Closing dari Fiscal Year
-
-#### <a name="field-duration">Duration</a>
-
-Durasi (**Format:** *Tanggal Mulai - Tanggal Akhir*) periode akan berjalan
-
-### <a name="bagian-detail-journal">DETAIL JOURNALS</a>
-
-![](../img/fiscal-period/form-detail-journal.png)
-
-#### <a name="field-journal-id">Journal</a>
-
-Journal yang akan tersedia pada periode
-
-#### <a name="field-journal-period-ids">Journal Type</a>
-
-Tipe dari journal terpilih
+## Chapter
+- [Konfigurasi](../konfigurasi.md)
+- [Fiscal Year](./fiscal-year.md)
+- [Cash Flow Code](./cash-flow-code.md)
+- [Account](./account.md)
+- [Journal](./journal.md)
+- [Currency](./currency.md)
+- [Payment Term](./payment-term.md)
+- [Payment Mode](./payment-mode.md)
+- [Voucher Type](./voucher-type.md)
