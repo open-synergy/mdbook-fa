@@ -9,11 +9,11 @@ Proses ini adalah proses **yang sering digunakan** untuk mempermudah dan memperc
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Accounting -> Configuration -> Periods -> Fiscal Years**
-2. Pilih data fiscal year yang akan dibuat periodenya
+1. Buka menu **Accounting -> Configuration -> Periods -> Fiscal Years**. Abaikan jika sudaah berada pada menu yang dimaksud.
+2. Buka data fiscal year yang akan dibuat periodenya. Abaikan jika data sudah dibuka.
 3. Klik Tombol **Create 3 Months Periods** di bagian atas.
 
-    ![](../../img/fiscal-period/tombol-3monthly.png)
+![](../../img/fiscal-period/tombol-3monthly.png)
 
 ## C. OUTPUT
 
