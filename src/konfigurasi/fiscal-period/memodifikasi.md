@@ -2,44 +2,28 @@
 
 ## A. INPUT
 
-*(Data Fiscal year sudah diinput dan berstatus open)*
+*(tidak ada instruksi khusus)*
 
 ## B. LANGKAH KERJA
 
-1. Ada 2 cara untuk memodifikasi fiscal Period
+1. Buka menu **Accounting -> Configuration -> Periods -> Period**. Abaikan jika menu sudah dibuka.
+2. Buka data fiscal period yang akan dimodifikasi. Abaikan jika data sudah diubah.
+3. Klik tombol **Edit** pada bagian atas-kiri form.
 
-    - Melalui menu fiscal years
+![](../../img/fiscal-period/tombol-edit.png)
 
-        1. Buka menu **Accounting -> Configuration -> Periods -> Fiscal Years**
-        2. Pilih data fiscal year yang akan dimodifikasi
-        3. Klik Edit
+4. Isi dan sesuaikan **[Periode Name](./penjelasan.md#field-name)** jika diperlukan. Harus diisi.
+5. Isi dan sesuaikan **[Code](./penjelasan.md#field-code)** jika diperlukan. Harus diisi.
+6. Pilih dan Sesuaikan **[Fiscal Year](./penjelasan.md#field-fiscal-year-id)** jika diperlukan. Harus diisi.
+7. Sesuaikan **[Opening/Closing Period](./penjelasan.md#field-detail-periode-special)** jika diperlukan.
+8. Isi dan sesuaikan **[Duration](./penjelasan.md#field-duration)** jika diperlukan. Harus diisi.
+9. Klik tombol **Save** pada bagian atas-kiri form untuk menyimpan.
 
-        ![](../../img/fiscal-period/tombol-edit-fiscal-year.png)
-
-        4. Double klik pada data yang akan dimodifikasi
-
-        ![](../../img/fiscal-period/tombol-edit-period-fiscal-year.png)
-
-    - Melalui menu fiscal period
-
-        1. Buka menu **Accounting -> Configuration -> Periods -> Period**
-        2. Pilih data fiscal period yang akan dimodifikasi
-        3. Klik tombol **Edit** pada bagian atas-kiri form.
-
-        ![](../../img/fiscal-period/tombol-edit.png)
-
-3. Sesuaikan **[Periode Name](./penjelasan.md#field-name)** jika diperlukan. Harus diisi.
-4. Sesuaikan **[Code](./penjelasan.md#field-code)** jika diperlukan. Harus diisi.
-5. Sesuaikan **[Fiscal Year](./penjelasan.md#field-fiscal-year-id)** jika diperlukan. Harus diisi.
-6. Sesuaikan **[Opening/Closing Period](./penjelasan.md#field-detail-periode-special)** jika diperlukan.
-7. Sesuaikan **[Duration](./penjelasan.md#field-duration)** jika diperlukan. Harus diisi.
-8. Klik tombol **Save** pada bagian atas-kiri form untuk menyimpan.
-
-    ![](../../img/fiscal-period/tombol-save.png)
+![](../../img/fiscal-period/tombol-save.png)
 
 ## C. OUTPUT
 
-*(Data akan tersimpan)*
+* Data fiscal period akan berubah sesuai dengan perubahan yang dilakukan
 
 ## Chapter
 - [Konfigurasi](../../konfigurasi.md)
