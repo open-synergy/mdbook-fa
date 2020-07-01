@@ -3,6 +3,7 @@
 ## A. INPUT
 
 * Data fiscal perid yang akan dihapus harus memiliki status **Open**
+* Tidak ada transaksi akuntansi yang menggunakan data fiscal period yang akan dihapus
 
 ## B. LANGKAH KERJA
 
