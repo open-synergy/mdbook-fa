@@ -14,7 +14,7 @@
 3. Isi **[Fiscal Year](./penjelasan.md#field-name)**. Harus diisi.
 4. Isi **[Code](./penjelasan.md#field-code)**. Harus diisi.
 5. Pilih **[Start Date](./penjelasan.md#field-start-date)**. Harus diisi.
-6. Pilih **[Start Date](./penjelasan.md#field-end-date)**. Harus diisi.
+6. Pilih **[End Date](./penjelasan.md#field-end-date)**. Harus diisi.
 7. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/fiscal-years/tombol-save.png)
