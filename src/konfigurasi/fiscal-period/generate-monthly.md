@@ -10,10 +10,10 @@ Proses ini adalah proses **yang sering digunakan** untuk mempermudah dan memperc
 ## B. LANGKAH KERJA
 
 1. Buka menu **Accounting -> Configuration -> Periods -> Fiscal Years**
-2. Pilih data fiscal year yang akan dibuat periodenya
+2. Buka data fiscal year yang akan dibuat periodenya
 3. Klik Tombol **Create Monthly Periods** di bagian atas.
 
-    ![](../../img/fiscal-period/tombol-monthly.png)
+![](../../img/fiscal-period/tombol-monthly.png)
 
 ## C. OUTPUT
 
