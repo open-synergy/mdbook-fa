@@ -1,7 +1,5 @@
 # Penjelasan Fiscal Year
 
-Fiscal Year adalah menu untuk mengelola data tahun fiskal (fiscal year).
-
 Informasi pada Fiscal Year dibagi menjadi beberapa area, diantaranya:
 
 * [Header](#bagian-header)
