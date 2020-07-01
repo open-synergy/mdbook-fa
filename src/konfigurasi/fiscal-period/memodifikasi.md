@@ -3,7 +3,6 @@
 ## A. INPUT
 
 * Data fiscal period yang akan dimodifikasi harus memiliki status **Open**
-* Tidak boleh ada data transaksi yang menggunakan data fiscal period yang akan dihapus
 
 ## B. LANGKAH KERJA
 
