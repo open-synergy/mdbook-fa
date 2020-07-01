@@ -17,7 +17,7 @@
 4. Ubah **[Fiscal Year](./penjelasan.md#field-name)** jika diperlukan. Harus diisi.
 5. Ubah **[Code](./penjelasan.md#field-code)** jika diperlukan. Harus diisi.
 6. Ubah **[Start Date](./penjelasan.md#field-start-date)** jika diperlukan. Harus diisi.
-7. Ubah **[Start Date](./penjelasan.md#field-end-date)** jika diperlukan. Harus diisi.
+7. Ubah **[End Date](./penjelasan.md#field-end-date)** jika diperlukan. Harus diisi.
 8. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/fiscal-years/tombol-save.png)
