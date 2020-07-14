@@ -1,96 +1,23 @@
 # Account
 
-### <a name="bagian-header">HEADER</a>
+![](/img/account/account.jpeg)
 
-![](../img/account/form.png)
+Konfigurasi Account menjelaskan bagaimana untuk melakukan konfigurasi kode akun.
+Kode Akun ini akan banyak dipakai pada proses transaksi lainnya.
 
-#### <a name="field-code">Account Code</a>
+Adapun proses konfigurasi Account terdiri dari menjadi item sbb:
+- [Penjelasan Account](account/penjelasan.md)
+- [Membuat Account](account/membuat.md)
+- [Memodifikasi Account](account/memodifikasi.md)
+- [Menghapus Account](account/menghapus.md)
 
-Kode Akun
-
-#### <a name="field-name">Account Name</a>
-
-Nama Akun
-
-#### <a name="field-parent-id">Parent</a>
-
-Parent Akun
-
-#### <a name="field-type">Internal Type</a>
-
-Internal Tipe Akun. Terbagi atas beberapa internal tipe, yaitu:<br />
-* View
-* Reqular
-* Receivable
-* Payable
-* Liquidity
-* Consolidation
-* Closed
-
-#### <a name="field-direct-cashflow-id">Direct Cash Flow</a>
-
-Cash Flow Code dengan tipe direct
-
-#### <a name="field-indirect-cashflow-id">Indirect Cash Flow</a>
-
-Cash Flow Code dengan tipe indirect
-
-#### <a name="field-account-type">Account Type</a>
-
-Tipe Akun
-
-#### <a name="field-asset-category-id">Asset Category</a>
-
-Kategori Asset
-
-#### <a name="field-active">Active</a>
-
-Sebagai penanda apakah data adalah aktif/non-aktif
-
-#### <a name="field-centralized">Centralized</a>
-
-Deskripsi Cash Flow Code
-
-#### <a name="field-operating-unit-id">Default Operating Unit</a>
-
-Sebagai nilai default operating unit apabila akun terpilih.<br/>
-Hanya pengguna yang tergabung dalam group **Multi Operating Units** yang dapat melihat isian ini.
-
-#### <a name="field-tax-ids">Default Taxes</a>
-
-Sebagai nilai default pajak apabila akun terpilih
-
-#### <a name="field-reconcile">Allow Reconciliation</a>
-
-Sebagai informasi apakah akun dapat direkonsiliasi atau tidak
-
-#### <a name="field-debit">Debit</a>
-
-Informasi nilai debit dari akun
-
-#### <a name="field-credit">Credit</a>
-
-Informasi nilai kredit dari akun
-
-#### <a name="field-balance">Balance</a>
-
-Informasi nilai balance dari akun
-
-#### <a name="field-currency-id">Secondary Currency</a>
-
-Untuk menentukan Mata Uang kedua untuk akun
-
-#### <a name="field-currency-mode">Outgoing Currencies Rate</a>
-
-To Do. <br />
-Terbagi atas 2, yaitu:<br />
-* At Date
-* Average Rate
-
-#### <a name="field-currency-revaluation">Allow Currency revaluation</a>
-
-Sebagai informasi apakah nilai mata uang dapat direvaluasi atau tidak
-
-#### <a name="field-note">Internal Notes</a>
-
-Catatan Internal
+## Chapter
+- [Konfigurasi](../konfigurasi.md)
+- [Fiscal Year](./fiscal-year.md)
+- [Fiscal Period](./fiscal-period.md)
+- [Cash Flow Code](./cash-flow-code.md)
+- [Journal](./journal.md)
+- [Currency](./currency.md)
+- [Payment Term](./payment-term.md)
+- [Payment Mode](./payment-mode.md)
+- [Voucher Type](./voucher-type.md)

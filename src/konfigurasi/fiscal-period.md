@@ -1,5 +1,7 @@
 # Fiscal Period
 
+![](/img/fiscal-period/fiscal-period.png)
+
 Konfigurasi Fiscal Period menjelaskan bagaimana untuk melakukan konfigurasi periode pada tahun fiscal.
 Adapun proses konfigurasi fiscal period terdiri dari menjadi item sbb:
 - [Penjelasan Fiscal Period](fiscal-period/penjelasan.md)

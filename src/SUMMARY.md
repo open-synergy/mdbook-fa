@@ -30,6 +30,8 @@
         - [Membuat Journal](./konfigurasi/journal/membuat.md)
         - [Memodifikasi Journal](./konfigurasi/journal/memodifikasi.md)
         - [Menghapus Journal](./konfigurasi/journal/menghapus.md)
+        - [Membuat Account Type](./konfigurasi/journal/membuat-account-type.md)
+        - [Menghapus Account Type](./konfigurasi/journal/hapus-account-type.md)
     - [Currency](./konfigurasi/currency.md)
         - [Penjelasan Currency](./konfigurasi/currency/penjelasan.md)
         - [Memodifikasi Currency](./konfigurasi/currency/memodifikasi.md)
