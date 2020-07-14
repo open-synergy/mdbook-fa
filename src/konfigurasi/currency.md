@@ -1,69 +1,21 @@
 # Currency
 
-### <a name="bagian-header">HEADER</a>
+![](/img/currency/currency.png)
 
-![](../img/currency/header.png)
+Menu ini akan menjelaskan bagaimana untuk melakukan konfigurasi rate currency/mata uang.
+Konfigurasi ini dipakai khususnya bagi perusahaan yang menggunakan multi currency atau mata uang lebih dari 1 dalam proses pembelian atau penjualan.
 
-#### <a name="field-name">Currency</a>
+Adapun proses konfigurasi Currency terdiri dari menjadi item sbb:
+- [Penjelasan Currency](currency/penjelasan.md)
+- [Memodifikasi Currency](currency/memodifikasi.md)
 
-Nama Mata Uang
-
-#### <a name="field-rate-inverted">Inverted exchange rate</a>
-
-To Do
-
-#### <a name="field-rate-silent">Current Rate</a>
-
-To Do
-
-#### <a name="field-rounding">Rounding Factor</a>
-
-Pembulatan faktor
-
-#### <a name="field-accuracy">Computational Accuracy</a>
-
-To Do
-
-#### <a name="field-symbol">Symbol</a>
-
-Symbol mata uang yang akan digunakan
-
-#### <a name="field-position">Symbol Position</a>
-
-Mendefinisikan posisi symbol mata uang. Posisi dibagi atas 2, yaitu:<br />
-* After Amount
-* Before Amount
-
-
-#### <a name="field-base">Base</a>
-
-To Do
-
-#### <a name="field-active">Active</a>
-
-Sebagai penanda apakah data adalah aktif/non-aktif
-
-### <a name="detail-currency-rate">CURRENCY RATE</a>
-
-![](../img/currency/detail-currency-rate.png)
-
-#### <a name="field-detail-currency-rate-name">Date</a>
-
-Tanggal rate
-
-#### <a name="field-detail-currency-rate-rate">Rate</a>
-
-Nilai rate yang akan digunakan
-
-### <a name="detail-amount-to-text">AMOUNT TO TEXT</a>
-
-![](../img/currency/detail-amount-to-text.png)
-![](../img/currency/form-amount-to-text.png)
-
-#### <a name="field-detail-amount-to-text-lang-id">Languange</a>
-
-Bahasa yang akan digunakan
-
-#### <a name="field-detail-amount-to-text-python-amount2text">Python Definition for Method Amount To Text</a>
-
-Fungsi python untuk generate amount to text
+## Chapter
+- [Konfigurasi](../konfigurasi.md)
+- [Fiscal Year](./fiscal-year.md)
+- [Fiscal Period](./fiscal-period.md)
+- [Cash Flow Code](./cash-flow-code.md)
+- [Account](./account.md)
+- [Journal](./journal.md)
+- [Payment Term](./payment-term.md)
+- [Payment Mode](./payment-mode.md)
+- [Voucher Type](./voucher-type.md)

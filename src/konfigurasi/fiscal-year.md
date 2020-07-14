@@ -1,7 +1,11 @@
 # Fiscal Year
 
+![](/img/fiscal-years/fiscal-year.jpeg)
+
 Konfigurasi Fiscal Year menjelaskan bagaimana untuk melakukan konfigurasi tahun fiscal.
+
 Adapun proses konfigurasi fiscal year terdiri dari menjadi item sbb:
+
 - [Penjelasan Fiscal Year](fiscal-year/penjelasan.md)
 - [Membuat Fiscal Year](fiscal-year/membuat.md)
 - [Memodifikasi Fiscal Year](fiscal-year/memodifikasi.md)

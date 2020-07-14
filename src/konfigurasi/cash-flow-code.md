@@ -1,23 +1,23 @@
 # Cash Flow Code
 
-### <a name="bagian-header">HEADER</a>
+![](/img/cash-flow-code/cash-flow.png)
 
-![](../img/cash-flow-code/form.png)
+Konfigurasi Cash Flow Code menjelaskan bagaimana untuk melakukan konfigurasi kode cash flow.
+Konfigurasi ini akan dipakai pada proses transaksi budget.
 
-#### <a name="field-name">Name</a>
+Adapun proses konfigurasi Cash Flow Code terdiri dari menjadi item sbb:
+- [Penjelasan Cash Flow Code](cash-flow-code/penjelasan.md)
+- [Membuat Cash Flow Code](cash-flow-code/membuat.md)
+- [Memodifikasi Cash Flow Code](cash-flow-code/memodifikasi.md)
+- [Menghapus Cash Flow Code](cash-flow-code/menghapus.md)
 
-Nama Cash Flow Code
-
-#### <a name="field-active">Active</a>
-
-Sebagai penanda apakah data adalah aktif/non-aktif
-
-#### <a name="field-type">Type</a>
-
-Tipe Cash Flow Code. Terbagi atas 2 tipe, yaitu:<br />
-* Direct
-* Indirect
-
-#### <a name="field-description">Description</a>
-
-Deskripsi Cash Flow Code
+## Chapter
+- [Konfigurasi](../konfigurasi.md)
+- [Fiscal Year](./fiscal-year.md)
+- [Fiscal Period](./fiscal-period.md)
+- [Account](./account.md)
+- [Journal](./journal.md)
+- [Currency](./currency.md)
+- [Payment Term](./payment-term.md)
+- [Payment Mode](./payment-mode.md)
+- [Voucher Type](./voucher-type.md)
