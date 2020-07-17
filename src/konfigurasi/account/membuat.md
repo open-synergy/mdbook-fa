@@ -22,19 +22,16 @@
 13. Pilih **[Default Operating Unit](./penjelasan.md#field-operating-unit-id)**. Tidak Harus diisi.
 14. Pilih **[Default Taxes](./penjelasan.md#field-tax-ids)**. Tidak Harus diisi.
 15. Centang **[Allow Reconciliation](./penjelasan.md#field-reconcile)** jika akun diperbolehkan untuk direkonsiliasi.
-16. Isi **[Debit](./penjelasan.md#field-debit)**. Tidak harus diisi.
-17. Isi **[Credit](./penjelasan.md#field-credit)**. Tidak harus diisi.
-18. Nilai **[Balance](./penjelasan.md#field-balance)** akan terisi otomatis.
-19. Pilih **[Secondary Currency](./penjelasan.md#field-currency-id)**. Tidak Harus diisi.
-20. Pilih **[Outgoing Currency Rate](./penjelasan.md#field-currency-mode)**. Harus diisi jika secondary currency ada isian.
-21. Isi **[Internal Note](./penjelasan.md#field-note)**. Tidak Harus diisi.
-22. Klik tombol **Save** pada bagian atas-kiri form.
+16. Pilih **[Secondary Currency](./penjelasan.md#field-currency-id)**. Tidak Harus diisi.
+17. Pilih **[Outgoing Currency Rate](./penjelasan.md#field-currency-mode)**. Harus diisi jika secondary currency ada isian.
+18. Isi **[Internal Note](./penjelasan.md#field-note)**. Tidak Harus diisi.
+19. Klik tombol **Save** pada bagian atas-kiri form.
 
 ![](../../img/account/tombol-save.png)
 
 ## C. OUTPUT
 
-*(Data akan tersimpan)*
+* Data *Account* akan tersimpan
 
 ## Chapter
 - [Konfigurasi](../../konfigurasi.md)

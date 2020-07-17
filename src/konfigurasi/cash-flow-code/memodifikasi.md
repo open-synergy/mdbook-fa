@@ -22,7 +22,7 @@
 
 ## C. OUTPUT
 
-*(Data akan tersimpan)*
+* Data *Cash flow code* akan tersimpan sesuai dengan perubahan.
 
 ## Chapter
 - [Konfigurasi](../../konfigurasi.md)

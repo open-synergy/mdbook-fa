@@ -12,7 +12,7 @@ Nama Mata Uang
 
 Menentukan cara menghitung nilai tukar mata uang. Jika dicentang akan dihitung secara berkebalikan
 
-#### <a name="field-rate-silent">Current Rate</a>
+#### <a name="field-rate-current">Current Rate</a>
 
 Nilai tukar/rate saat ini
 
@@ -46,7 +46,7 @@ Sebagai penanda apakah data adalah aktif/non-aktif
 
 ![](../../img/currency/detail-currency-rate.png)
 
-#### <a name="field-detail-currency-rate-name">Date</a>
+#### <a name="field-detail-currency-rate-date">Date</a>
 
 Tanggal rate
 
@@ -73,4 +73,10 @@ Fungsi python untuk generate amount to text
 
 - [Konfigurasi](../../konfigurasi.md)
 - [Currency](../currency.md)
-- [Memodifikasi Currency](memodifikasi.md)
+- [Memodifikasi Currency](modifikasi.md)
+- [Membuat Rate Currency](membuat-rate.md)
+- [Memodifikasi Rate Currency](memodifikasi-rate.md)
+- [Menghapus Rate Currency](menghapus-rate.md)
+- [Membuat Amount To Text](membuat-amount.md)
+- [Memodifikasi Amount To Text](memodifikasi-amount.md)
+- [Menghapus Amount To Text](menghapus-amount.md)
