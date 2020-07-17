@@ -12,11 +12,11 @@
 
 ![](../../img/journal/tombol-hapus-account-type.png)
 
-2. Lanjutkan [langkah ke-20 Instruksi Kerja Membuat Journal](./membuat.md#l20) atau [langkah ke-20 Instruksi Kerja Memodifikasi Journal](./memodifikasi.md#l20).
+2. Lanjutkan [langkah ke-20 Instruksi Kerja Membuat Journal](./membuat.md#l20) atau [langkah ke-21 Instruksi Kerja Memodifikasi Journal](./memodifikasi.md#l21).
 
 ## C. OUTPUT
 
-*(Data account type akan terhapus)*
+* Data account type akan terhapus
 
 ## Chapter
 - [Konfigurasi](../../konfigurasi.md)
