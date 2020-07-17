@@ -21,7 +21,7 @@
 
 ## C. OUTPUT
 
-*(Data akan tersimpan)*
+* Data *Fiscal Year* akan tersimpan dengan status *open*
 
 ## Chapter
 - [Konfigurasi](../../konfigurasi.md)

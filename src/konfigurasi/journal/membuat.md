@@ -28,7 +28,7 @@
 17. Centang **[Check Date in Period](./penjelasan.md#field-allow-date)** jika diperlukan.
 18. Centang **[Group Invoice Lines](./penjelasan.md#field-group-invoice-lines)** jika diperlukan.
 19. Klik **[Tab Entry Control](./penjelasan.md#tab-entry-controls)** untuk mengisi akun yang diperbolehkan.
-20. <a name="l20">[Membuat](./membuat-account-type.md)/[Hapus](./hapus-account-type.md) **Accout Type**</a>. Ulangi langkah ini sampai **Account Type** yang diperbolehkan sesuai dengan keinginan.
+20. <a name="l20">[Membuat](./membuat-account-type.md)/[Hapus](./hapus-account-type.md) **Account Type**</a>. Ulangi langkah ini sampai **Account Type** yang diperbolehkan sesuai dengan keinginan.
 21. Klik **[Tab Cash Register](./penjelasan.md#tab-cash-registers)**.
 22. Pilih **[Profit Account](./penjelasan.md#field-profit-account-ids)**. Tidak harus diisi.
 23. Pilih **[Loss Account](./penjelasan.md#field-loss-account-ids)**. Tidak harus diisi.
@@ -45,7 +45,7 @@
 
 ## C. OUTPUT
 
-*(Data akan tersimpan)*
+* Data *Journal* akan tersimpan
 
 ## Chapter
 - [Konfigurasi](../../konfigurasi.md)

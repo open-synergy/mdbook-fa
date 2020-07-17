@@ -20,7 +20,11 @@
 
 ![](../../img/journal/tombol-select-account-type.png)
 
-4. Lanjutkan [langkah ke-20 Instruksi Kerja Membuat Journal](./membuat.md#l20) atau [langkah ke-20 Instruksi Kerja Memodifikasi Journal](./memodifikasi.md#l20).
+4. Lanjutkan [langkah ke-20 Instruksi Kerja Membuat Journal](./membuat.md#l20) atau [langkah ke-21 Instruksi Kerja Memodifikasi Journal](./memodifikasi.md#l21).
+
+## C. OUTPUT
+
+* Data akan tersimpan.
 
 ## Chapter
 - [Konfigurasi](../../konfigurasi.md)
