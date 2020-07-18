@@ -21,9 +21,9 @@
 10. Ubah **[Symbol Position](./penjelasan.md#field-position)** jika diperlukan.
 11. Ubah **[Base](./penjelasan.md#field-base)** jika diperlukan.
 12. Ubah **[Active](./penjelasan.md#field-active)** jika diperlukan.
-13. **[Currency Rate](./penjelasan.md#detail-currency-rate)** untuk mengisi rate currency.
+13. Klik tabel **[Currency Rate](./penjelasan.md#detail-currency-rate)** untuk mengisi rate currency.
 14. <a name="l13">[Membuat](./membuat-rate.md)/[Memodifikasi](./memodifikasi-rate.md)/[Menghapus](./menghapus-rate.md) **Rate Currency**</a>. Ulangi langkah ini sampai **Rate Currency** yang diperlukan sesuai dengan keinginan.
-15. **[Amount To Text](./penjelasan.md#detail-amount-to-text)**.
+15. Klik Tabel **[Amount To Text](./penjelasan.md#detail-amount-to-text)**.
 16. <a name="l16">[Membuat](./membuat-amount.md)/[Memodifikasi](./memodifikasi-amount.md)/[Menghapus](./menghapus-amount.md) **Amount To Text**</a>. Ulangi langkah ini sampai **Amount To Text** yang diperlukan sesuai dengan keperluan.
 17. Klik tombol **Save** pada bagian atas-kiri form.
 
