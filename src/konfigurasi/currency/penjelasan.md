@@ -73,7 +73,7 @@ Fungsi python untuk generate amount to text
 
 - [Konfigurasi](../../konfigurasi.md)
 - [Currency](../currency.md)
-- [Memodifikasi Currency](modifikasi.md)
+- [Memodifikasi Currency](memodifikasi.md)
 - [Membuat Rate Currency](membuat-rate.md)
 - [Memodifikasi Rate Currency](memodifikasi-rate.md)
 - [Menghapus Rate Currency](menghapus-rate.md)
