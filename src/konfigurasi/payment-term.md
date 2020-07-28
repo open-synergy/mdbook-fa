@@ -1,44 +1,27 @@
 # Payment Term
 
-### <a name="bagian-header">HEADER</a>
+![](/img/payment-term/payment-term.png)
 
-![](../img/payment-term/header.png)
+Konfigurasi Payment Term menjelaskan bagaimana untuk melakukan konfigurasi term pembayaran.
+Konfigurasi ini akan dipakai pada proses transaksi accounting lainnya.
 
-#### <a name="field-name">Payment Term</a>
+Adapun proses konfigurasi Payment Term terdiri dari menjadi item sbb:
+- [Penjelasan Payment Term](payment-term/penjelasan.md)
+- [Membuat Payment Term](payment-term/membuat.md)
+- [Memodifikasi Payment Term](payment-term/memodifikasi.md)
+- [Menghapus Payment Term](payment-term/menghapus.md)
+- [Membuat Computation](payment-term/membuat-computation.md)
+- [Memodifikasi Computation](payment-term/memodifikasi-computation.md)
+- [Menghapus Computation](payment-term/menghapus-computation.md)
 
-Nama dari Payment Term
 
-#### <a name="field-active">Active</a>
-
-Sebagai penanda apakah data adalah aktif/non-aktif
-
-#### <a name="field-description">Description</a>
-
-Deskripsi dari Payment Term
-
-### <a name="detail-computation">COMPUTATION</a>
-
-![](../img/payment-term/detail-computation.png)
-![](../img/payment-term/detail-computation-form.png)
-
-#### <a name="detail-computation-field-value">Computation</a>
-
-Jenis-jenis perhitungan yang bisa dipakai dalam komputasi. Komputasi dibagi atas 3, yaitu:<br />
-* Percent - Menggunakan persentase dalam perhitungan payment term. Skala persentase adalah 0 - 1
-* Balance
-* Fixed Amount - Menggunakan nilai fix dalam perhitungan payment term
-
->(**Note:** Untuk komputasi dengan jenis **(1)Percent*; **(2)Fixed Amount*, apabila dipilih maka akan muncul input box)
-![](../img/payment-term/amount-to-pay-input-box.png)
-
-#### <a name="detail-computation-field-days">Number of Days</a>
-
-Mendefinisikan hari yang akan dipakai dalam perhitungan payment term
-
-#### <a name="detail-computation-field-days2">Day of the Month</a>
-
-Mendefinisikan bulan yang akan dipakai dalam perhitungan payment term.
-Apabila diisi:<br />
-* -1: Perhitungan payment term akan menggunakan hari terakhir pada bulan depan
-* 0: Perhitungan akan langsung menggunakan Number of Days pada bulan yang sedang berjalan
-* 0++: Perhitungan akan langsung menggunakan Nilai yang diberikan pada bulan depan
+## Chapter
+- [Konfigurasi](../konfigurasi.md)
+- [Fiscal Year](./fiscal-year.md)
+- [Fiscal Period](./fiscal-period.md)
+- [Cash Flow Code](./cash-flow-code.md)
+- [Account](./account.md)
+- [Journal](./journal.md)
+- [Currency](./currency.md)
+- [Payment Mode](./payment-mode.md)
+- [Voucher Type](./voucher-type.md)

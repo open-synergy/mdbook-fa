@@ -1,21 +1,24 @@
 # Payment Mode
 
-### <a name="bagian-header">HEADER</a>
+![](/img/payment-mode/payment-mode.png)
 
-![](../img/payment-mode/header.png)
+Konfigurasi Payment Mode menjelaskan bagaimana untuk melakukan konfigurasi cara pembayaran.
+Konfigurasi ini akan dipakai pada proses transaksi accounting lainnya.
 
-#### <a name="field-name">Name</a>
+Adapun proses konfigurasi Payment Mode terdiri dari menjadi item sbb:
+- [Penjelasan Payment Mode](payment-mode/penjelasan.md)
+- [Membuat Payment Mode](payment-mode/membuat.md)
+- [Memodifikasi Payment Mode](payment-mode/memodifikasi.md)
+- [Menghapus Payment Mode](payment-mode/menghapus.md)
 
-Nama dari Payment Mode
 
-#### <a name="field-journal-id">Journal</a>
-
-Mendefinisikan Jurnal Bank / Cash yang akan dipakai dalam Payment Mode
-
-#### <a name="field-bank-id">Bank Account</a>
-
-Mendefinisikan Bank yang akan dipakai dalam Payment Mode
-
-#### <a name="field-bank-id">Sequence</a>
-
-Mendefinisikan Kode Sequence yang akan dipakai dalam Payment Mode
+## Chapter
+- [Konfigurasi](../konfigurasi.md)
+- [Fiscal Year](./fiscal-year.md)
+- [Fiscal Period](./fiscal-period.md)
+- [Cash Flow Code](./cash-flow-code.md)
+- [Account](./account.md)
+- [Journal](./journal.md)
+- [Currency](./currency.md)
+- [Payment Term](./payment-term.md)
+- [Voucher Type](./voucher-type.md)
