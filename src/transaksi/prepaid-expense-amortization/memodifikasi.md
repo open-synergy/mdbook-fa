@@ -13,8 +13,7 @@
 
 ![](../../img/prepaid-expense-amortization/tombol-edit.png)
 
-4. Ubah **[# Document](./penjelasan.md#field-#document)** dengan penomeran yang dikehendaki. Biarkan berisi **/**
-apabila menghendaki penomeran otomatis. Wajib diisi.
+4. Ubah **[# Document](./penjelasan.md#field-#document)** jika dibutuhkan. Wajib diisi.
 5. Pilih dan sesuaikan **[Move Line](./penjelasan.md#field-move-line)** jika dibutuhkan. Wajib diisi.
 6. Pilih dan sesuaikan **[Journal](./penjelasan.md#field-journal)** jika dibutuhkan. Wajib diisi.
 7. Pilih dan sesuaikan **[Amortization Contra Account](./penjelasan.md#field-amortization-contra-account)** jika dibutuhkan. Wajib diisi.
