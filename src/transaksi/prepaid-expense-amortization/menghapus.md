@@ -12,7 +12,7 @@
 
 1. Buka menu **Accounting -> Amortization -> Prepaid Expenses**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Buka data prepaid expense amortization yang akan dihapus. Abaikan jika data sudah dibuka.
-3. Klik tombol **More** pada bagian atas-kiri form.
+3. Klik tombol **More** pada bagian atas-tengah form.
 
 ![](../../img/prepaid-expense-amortization/tombol-more.png)
 
