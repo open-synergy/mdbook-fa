@@ -20,6 +20,10 @@ Informasi pada *Invoice Settlement* dibagi menjadi beberapa area, diantaranya:
 
 Nomor dokumen *invoice settlement*.
 
+#### <a name="field-company">Company</a>
+
+Perusahaan pemilik dokumen *invoice settlement*
+
 #### <a name="field-date">Date</a>
 
 Tanggal transaksi.
