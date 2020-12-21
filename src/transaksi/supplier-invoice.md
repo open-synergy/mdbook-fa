@@ -9,6 +9,7 @@
 - [Menambahkan Invoice Line Pada Supplier Invoice](./supplier-invoice/membuat-manual-invoice-line.md)
 - [Memodifikasi Invoice Line Pada Supplier Invoice](./supplier-invoice/modifikasi-invoice-line.md)
 - [Menghapus Invoice Line Pada Supplier Invoice](./supplier-invoice/menghapus-invoice-line.md)
-- [Memvalidasi Supplier Invoice](./supplier-invoice/validasi.md)        
+- [Menyetujui Supplier Invoice](./supplier-invoice/approve.md)        
+- [Menolak Supplier Invoice](./supplier-invoice/menolak.md)        
 - [Membatalkan Supplier Invoice](./supplier-invoice/batal.md)
 - [Merestart Supplier Invoice](./supplier-invoice/restart.md)

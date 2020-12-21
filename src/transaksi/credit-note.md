@@ -9,6 +9,7 @@
 - [Menambahkan Invoice Line Pada Credit Note](./credit-note/membuat-manual-invoice-line.md)        
 - [Memodifikasi Invoice Line Pada Credit Note](./credit-note/memodifikasi-invoice-line.md)        
 - [Menghapus Invoice Line Pada Credit Note](./credit-note/menghapus-invoice-line.md)        
-- [Memvalidasi Credit Note](./credit-note/validasi.md)   
+- [Menyetujui Credit Note](./credit-note/approve.md)   
+- [Menolak Credit Note](./credit-note/menolak.md)   
 - [Membatalkan Credit Note](./credit-note/batal.md)
 - [Merestart Credit Note](./credit-note/restart.md)
