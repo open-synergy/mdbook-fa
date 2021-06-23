@@ -10,15 +10,14 @@
 
 ## B. LANGKAH KERJA
 
-1. Buka menu **Accounting -> Bank & Cash -> Cheque Receipt**. Abaikan jika sudah berada
-pada menu yang dimaksud.
+1. Buka menu **Accounting -> Bank & Cash -> Cheque Receipt**. Abaikan jika sudah berada pada menu yang dimaksud.
 2. Buka data cheque receipt yang akan disetujui. Abaikan jika data sudah dibuka.
-3. Klik tombol **Approve** pada bagian atas-kiri form.
+3. Klik tombol **Validate** pada bagian atas-kiri form.
 
-![](../../img/cheque-receipt/tombol-approve.png)
+![](../../img/cheque-receipt/tombol-validate.png)
 
 ## C. OUTPUT
 
-* Status dari cheque receipt akan berubah menjadi **Ready To Process**
+* Status dari cheque receipt akan berubah menjadi **Ready to Process**.
 
 ![](../../img/cheque-receipt/status-ready-to-process.png)
