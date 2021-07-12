@@ -15,6 +15,8 @@
         - [Membuat Fiscal Period Secara Manual](./konfigurasi/fiscal-period/membuat.md)
         - [Memodifikasi Fiscal Period](./konfigurasi/fiscal-period/memodifikasi.md)
         - [Menghapus Fiscal Period](./konfigurasi/fiscal-period/menghapus.md)
+        - [Menutup Fiscal Period](./konfigurasi/fiscal-period/menutup.md)
+        - [Membuka Fiscal Period](./konfigurasi/fiscal-period/membuka.md)
     - [Cash Flow Code](./konfigurasi/cash-flow-code.md)
         - [Penjelasan Cash Flow Code](./konfigurasi/cash-flow-code/penjelasan.md)
         - [Membuat Cash Flow Code](./konfigurasi/cash-flow-code/membuat.md)
