@@ -19,6 +19,7 @@
     - [Merevisi Nota Debit](./fa/merevisi-debit-note.md)
     - [Membatalkan Nota Debit](./fa/membatalkan-debit-note.md)
     - [Menghapus Nota Debit](./fa/menghapus-debit-note.md)      
+    - [Mengotomasi Amortisasi Prepaid Expense](./fa/mengotomasi-amortisasi-prepaid-expense.md)      
 - [Konfigurasi](./konfigurasi.md)
     - [Fiscal Year](./konfigurasi/fiscal-year.md)
         - [Penjelasan Fiscal Year](./konfigurasi/fiscal-year/penjelasan.md)
