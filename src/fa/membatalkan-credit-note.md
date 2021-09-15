@@ -6,7 +6,7 @@
 
 ## <a name="role">B. ROLE YANG TERLIBAT</a>
 
-* Credit Note User
+* Credit Note Validator
 
 ## <a name="instruksi">C. INSTRUKSI KERJA</a>
 

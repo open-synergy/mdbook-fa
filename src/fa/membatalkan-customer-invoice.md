@@ -6,7 +6,7 @@
 
 ## <a name="role">B. ROLE YANG TERLIBAT</a>
 
-* Customer Invoice User
+* Customer Invoice Validator
 
 ## <a name="instruksi">C. INSTRUKSI KERJA</a>
 
