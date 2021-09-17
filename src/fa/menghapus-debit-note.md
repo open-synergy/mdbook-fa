@@ -6,7 +6,7 @@
 
 ## <a name="role">B. ROLE YANG TERLIBAT</a>
 
-* Debit Note User
+* Debit Note Validator
 
 ## <a name="instruksi">C. INSTRUKSI KERJA</a>
 
