@@ -32,4 +32,4 @@
 
 ## <a name="input">D. END</a>
 
-*Message*: Debit Note selesai diproses
+*Message*: Debit Note selesai dihapus.
