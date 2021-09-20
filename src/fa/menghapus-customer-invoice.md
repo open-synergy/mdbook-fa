@@ -32,4 +32,4 @@
 
 ## <a name="input">D. END</a>
 
-*Message*: Customer Invoice selesai diproses
+*Message*: Customer Invoice selesai dihapus.
