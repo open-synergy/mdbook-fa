@@ -2,12 +2,14 @@
 
 ## <a name="input">A. START</a>
 
-*Message*: Ada bank receipt diterima
+* *Message*: Ada bank receipt yang perlu dibuat ulang, atau
+* *Message*: Menerima uang di bank
 
 ## <a name="role">B. ROLE YANG TERLIBAT</a>
 
 * Bank Receipt User
 * Bank Receipt Validator
+* Penandatangan Bank Receipt
 
 ## <a name="instruksi">C. INSTRUKSI KERJA</a>
 
@@ -45,4 +47,4 @@
 
 ## <a name="input">D. END</a>
 
-*Message*: Bank Receipt selesai diproses
+*Message*: Bank Receipt selesai dibuat
