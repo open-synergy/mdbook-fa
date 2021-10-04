@@ -8,6 +8,7 @@
 
 * Bank Receipt User
 * Bank Receipt Validator
+* Penandatangan Bank Receipt
 
 ## <a name="instruksi">C. INSTRUKSI KERJA</a>
 
@@ -43,6 +44,12 @@
 
 [Odoo - Bank Receipt: 3.3.3.10](../transaksi/bank-receipt/approve.md)
 
+### C.6 Memposting Bank Receipt
+
+#### C.6.1 Instruksi Kerja Utama
+
+[Odoo - Bank Receipt: 3.3.3.13](../transaksi/bank-receipt/post.md)
+
 ## <a name="input">D. END</a>
 
-*Message*: Bank Receipt selesai diproses.
+*Message*: Bank Receipt selesai direvisi.
