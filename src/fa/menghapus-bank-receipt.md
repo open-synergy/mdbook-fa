@@ -32,4 +32,4 @@
 
 ## <a name="input">D. END</a>
 
-*Message*: Credit Note selesai dihapus.
+*Message*: Bank Receipt selesai dihapus.
