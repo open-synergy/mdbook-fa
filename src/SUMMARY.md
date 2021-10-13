@@ -38,7 +38,7 @@
     - [Membuat Cheque Receipt](./fa/membuat-cheque-receipt.md)
     - [Merevisi Cheque Receipt](./fa/merevisi-cheque-receipt.md)
     - [Membatalkan Cheque Receipt](./fa/membatalkan-cheque-receipt.md)
-    - [Menghapus Cheque Receipt](./fa/menghapus-cash-receipt.md)
+    - [Menghapus Cheque Receipt](./fa/menghapus-cheque-receipt.md)
     - [Membuat Cheque Payment](./fa/membuat-cheque-payment.md)
     - [Merevisi Cheque Payment](./fa/merevisi-cheque-payment.md)
     - [Membatalkan Cheque Payment](./fa/membatalkan-cheque-payment.md)
