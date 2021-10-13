@@ -3,7 +3,7 @@
 ## <a name="input">A. START</a>
 
 * *Message*: Ada cheque receipt yang perlu dibuat ulang, atau
-* *Message*: Menerima cheque di bank
+* *Message*: Menerima Cek
 
 ## <a name="role">B. ROLE YANG TERLIBAT</a>
 
