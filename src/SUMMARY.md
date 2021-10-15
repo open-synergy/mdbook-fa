@@ -42,7 +42,7 @@
     - [Membuat Cheque Payment](./fa/membuat-cheque-payment.md)
     - [Merevisi Cheque Payment](./fa/merevisi-cheque-payment.md)
     - [Membatalkan Cheque Payment](./fa/membatalkan-cheque-payment.md)
-    - [Menghapus Cheque Payment](./fa/menghapus-cash-payment.md)
+    - [Menghapus Cheque Payment](./fa/menghapus-cheque-payment.md)
     - [Membuat Giro Receipt](./fa/membuat-giro-receipt.md)
     - [Merevisi Giro Receipt](./fa/merevisi-giro-receipt.md)
     - [Membatalkan Giro Receipt](./fa/membatalkan-giro-receipt.md)
